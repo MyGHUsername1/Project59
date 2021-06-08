@@ -30,6 +30,7 @@ title{
     right: 30px;
     cursor: pointer;
     color: black;
+    display: inline;
 }
 
 .links {
